@@ -1,0 +1,14 @@
+{
+    "config": {
+            "homesteadBlock": 10
+    },
+    "nonce": "0",
+    "difficulty": "0x20000",
+    "mixhash": "0x00000000000000000000000000000000000000647572616c65787365646c6578",
+    "coinbase": "0xa1a6eb2c752108e86d7897f5b0d9a5a8b0f4eb6c",
+    "timestamp": "0x00",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "extraData": "0x",
+    "gasLimit": "0x2FEFD8",
+    "alloc": {}
+}

@@ -1,0 +1,33 @@
+=============== Jan 17, 2023 (WAT) ===============
+13:21:41.077698 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:21:41.083349 db@open opening
+13:21:41.085361 version@stat F·[] S·0B[] Sc·[]
+13:21:41.087361 db@janitor F·2 G·0
+13:21:41.087361 db@open done T·2.9933ms
+13:21:41.116593 db@close closing
+13:21:41.116655 db@close done T·62.3µs
+=============== Jan 17, 2023 (WAT) ===============
+13:22:18.381125 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:22:18.382147 version@stat F·[] S·0B[] Sc·[]
+13:22:18.382147 db@open opening
+13:22:18.382147 journal@recovery F·1
+13:22:18.383712 journal@recovery recovering @1
+13:22:18.387521 memdb@flush created L0@2 N·11 S·604B "Hŋ..R\x9f\xa3,v4":"r\x00\x00..R\x9f\xa3,v6"
+13:22:18.440233 version@stat F·[1] S·604B[604B] Sc·[0.25]
+13:22:18.449644 db@janitor F·3 G·0
+13:22:18.449644 db@open done T·67.497ms
+13:52:20.688500 db@close closing
+13:52:20.689033 db@close done T·533.3µs
+=============== Jan 17, 2023 (WAT) ===============
+21:59:55.207171 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:59:55.207171 version@stat F·[1] S·604B[604B] Sc·[0.25]
+21:59:55.207171 db@open opening
+21:59:55.207171 journal@recovery F·1
+21:59:55.207171 journal@recovery recovering @3
+21:59:55.221568 memdb@flush created L0@5 N·5650 S·295KiB "\x04H\xde..\xc1K\t,v5659":"η=..\xa3\r\u007f,v5661"
+21:59:55.223771 version@stat F·[2] S·296KiB[296KiB] Sc·[0.50]
+21:59:55.231412 db@janitor F·4 G·0
+21:59:55.231412 db@open done T·24.2418ms
+=============== Jan 18, 2023 (WAT) ===============
+11:57:47.239923 db@close closing
+11:57:47.240444 db@close done T·520.7µs
